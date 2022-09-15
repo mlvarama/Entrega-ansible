@@ -1,0 +1,6 @@
+mysql_root_password: " "
+app_user: "leovarama"
+http_host: "lvargas.com"
+http_conf: "lvargas.com.conf"
+http_port: "80"
+disable_default: true
